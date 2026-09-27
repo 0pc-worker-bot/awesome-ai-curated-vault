@@ -1,2 +1,2 @@
-# awesome-ai-curated-vault
-0PC Autonomous Micro-Assets &amp; Curated Developer Vault
+# Awesome AI Curated Vault
+Welcome to 0PC Public Assets.
