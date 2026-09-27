@@ -8,7 +8,7 @@
 
 | Category | Resource Title | Public Preview & Access | Last Updated |
 | :--- | :--- | :--- | :--- |
-| `test_niche` | **[Unit Test Automation Quickstart 2026](https://0pc.dev/r/test_niche-unit-test-automation-quickstart-202)** | [Direct Web Access](https://0pc.dev/r/test_niche-unit-test-automation-quickstart-202) | 2026-09-27 |
+| `devops_cheatsheet` | **[Docker & Container Emergency Rescue Cheatsheet 2026](https://0pc.dev/r/devops_cheatsheet-docker-container-emergency-rescue-c)** | [Direct Web Access](https://0pc.dev/r/devops_cheatsheet-docker-container-emergency-rescue-c) | 2026-09-27 |
 
 ---
 
